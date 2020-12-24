@@ -104,84 +104,84 @@ const gg = idn+''
 
 const exists = await conn.isOnWhatsApp (gg)
 console.log(exists);
-conn.sendMessage(id ,`Haii, kak 👋
+conn.sendMessage(id ,`Haii, kak ðŸ‘‹
 
 *command perintah : !*
 
-╔═ 〘 ♥REIN-BOT♥ 〙══╗
-╚════════════════════╝ 
-╔ ═〘 ꜰɪᴛᴜʀᴇ ᴀʟʟ ᴜꜱᴇʀ 〙═╗
-🌹 *!nulis* [ masukan teks ]
-🌹 *!sticker*
-🌹 *!bhsjepang*
-🌹 *!katabijak*
-🌹 *!fakta*
-🌹 *!pantun*
-🌹 *!pantuncinta*
-╚ ═════════════╝
-╔ ═〘 ʀᴇʟɪɢɪᴏᴜꜱ ᴄᴏᴍᴍᴀɴᴅ 〙╗
-🌹 *!quran* 
-🌹 *!sholat* [ nama daerah ]
-╚ ═════════════╝
-╔ ═〘 ᴄᴏᴍᴍᴀɴᴅ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ 〙╗
-🌹 *!ss*
-🌹 *!wiki* 
-🌹 *!brainly*
-🌹 *!svc* [ tag orng ny ]
-🌹 *!chord* [ nama music ]
-🌹 *!zodiak* 
-🌹 *!listzodiak*
-╚═════════════╝
-╔〘 ᴇɴᴛᴇʀᴛᴀɪɴᴍᴇɴᴛ ғᴇᴀᴛᴜʀᴇᴤ 〙╗
-🌹 *!quotes*
-🌹 *!quotesnime*
-🌹 *!nama*
-🌹 *!pasangan* [ nama pasangan l]
-🌹 *!lirik* [ nama lagu ]
-🌹 *!infoig* [ nama ig ]
-🌹 *!gay* [ tag orng ny ]
-🌹 *!buaya* [ tag orng ny ] 
-🌹 *!bmkg*
-╚═════════════╝
-╔═〘 ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ᴄᴏᴍᴍᴀɴᴅꜱ 〙╗
-🌹 *!ytmp3* [ link ]
-🌹 *!ytmp4* [ link ]
-🌹 *!instagram* [ link ]
-🌹 *!twt* [ link ]
-🌹 *!facebook* [ link ]
-╚═════════════╝
-╔═〘 ʀᴀɴᴅᴏᴍ ɪᴍᴀɢᴇᴤ 〙═╗
-🌹 *!kpop*
-🌹 *!loli*
-🌹 *!hentai enable*
-🌹 *!hentai*
-🌹 *!hentai disable*
-🌹 *!foto cewek/cowok*
-🌹 *!pokemon*
-🌹 *!animeimg*
-╚ ═════════════╝
-╔═〘 ᴏᴛʜᴇʀᴤ ᴄᴏᴍᴍᴀɴᴅᴤ 〙═╗
-🌹 *!say*
-🌹 *!tts*
-🌹 *!covidindo*
-╚═════════════╝
-╔═〘 ᴀʙᴏᴜᴛ ʙᴏᴛ 〙╗
-🌹 *!join*
-🌹 *!donasi*
-🌹 *!ownerbot*
-🌹 *!linkgroup*
-╚═════════════╝
-╔═〘 ᴏᴡɴᴇʀ ʙᴏᴛ 〙═╗
-🌹 *!ban* - banned
-🌹 *!bc* - promosi
-🌹 *!leaveall* - keluar semua grup
-🌹 *!clearall* - hapus semua chat
-🌹 *!offbot* - mematikan bot
-🌹 *!onbot* - menyalahkan bot
-🌹 *!ressetbot* - resset system bot
-╚═════════════╝
+â•”â• ã€˜ 🐌VILLBOT🐌 ã€™â•â•â•—
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• 
+â•” â•ã€˜ êœ°Éªá´›á´œÊ€á´‡ á´€ÊŸÊŸ á´œêœ±á´‡Ê€ ã€™â•â•—
+ðŸŒ¹ *!nulis* [ masukan teks ]
+ðŸŒ¹ *!sticker*
+ðŸŒ¹ *!bhsjepang*
+ðŸŒ¹ *!katabijak*
+ðŸŒ¹ *!fakta*
+ðŸŒ¹ *!pantun*
+ðŸŒ¹ *!pantuncinta*
+â•š â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+â•” â•ã€˜ Ê€á´‡ÊŸÉªÉ¢Éªá´á´œêœ± á´„á´á´á´á´€É´á´… ã€™â•—
+ðŸŒ¹ *!quran* 
+ðŸŒ¹ *!sholat* [ nama daerah ]
+â•š â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+â•” â•ã€˜ á´„á´á´á´á´€É´á´… ÉªÉ´êœ°á´Ê€á´á´€á´›Éªá´É´ ã€™â•—
+ðŸŒ¹ *!ss*
+ðŸŒ¹ *!wiki* 
+ðŸŒ¹ *!brainly*
+ðŸŒ¹ *!svc* [ tag orng ny ]
+ðŸŒ¹ *!chord* [ nama music ]
+ðŸŒ¹ *!zodiak* 
+ðŸŒ¹ *!listzodiak*
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•
+â•”ã€˜ á´‡É´á´›á´‡Ê€á´›á´€ÉªÉ´á´á´‡É´á´› Ò“á´‡á´€á´›á´œÊ€á´‡á´¤ ã€™â•—
+ðŸŒ¹ *!quotes*
+ðŸŒ¹ *!quotesnime*
+ðŸŒ¹ *!nama*
+ðŸŒ¹ *!pasangan* [ nama pasangan l]
+ðŸŒ¹ *!lirik* [ nama lagu ]
+ðŸŒ¹ *!infoig* [ nama ig ]
+ðŸŒ¹ *!gay* [ tag orng ny ]
+ðŸŒ¹ *!buaya* [ tag orng ny ] 
+ðŸŒ¹ *!bmkg*
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•
+â•”â•ã€˜ á´…á´á´¡É´ÊŸá´á´€á´…á´‡Ê€ á´„á´á´á´á´€É´á´…êœ± ã€™â•—
+ðŸŒ¹ *!ytmp3* [ link ]
+ðŸŒ¹ *!ytmp4* [ link ]
+ðŸŒ¹ *!instagram* [ link ]
+ðŸŒ¹ *!twt* [ link ]
+ðŸŒ¹ *!facebook* [ link ]
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•
+â•”â•ã€˜ Ê€á´€É´á´…á´á´ Éªá´á´€É¢á´‡á´¤ ã€™â•â•—
+ðŸŒ¹ *!kpop*
+ðŸŒ¹ *!loli*
+ðŸŒ¹ *!hentai enable*
+ðŸŒ¹ *!hentai*
+ðŸŒ¹ *!hentai disable*
+ðŸŒ¹ *!foto cewek/cowok*
+ðŸŒ¹ *!pokemon*
+ðŸŒ¹ *!animeimg*
+â•š â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+â•”â•ã€˜ á´á´›Êœá´‡Ê€á´¤ á´„á´á´á´á´€É´á´…á´¤ ã€™â•â•—
+ðŸŒ¹ *!say*
+ðŸŒ¹ *!tts*
+ðŸŒ¹ *!covidindo*
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•
+â•”â•ã€˜ á´€Ê™á´á´œá´› Ê™á´á´› ã€™â•—
+ðŸŒ¹ *!join*
+ðŸŒ¹ *!donasi*
+ðŸŒ¹ *!ownerbot*
+ðŸŒ¹ *!linkgroup*
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•
+â•”â•ã€˜ á´á´¡É´á´‡Ê€ Ê™á´á´› ã€™â•â•—
+ðŸŒ¹ *!ban* - banned
+ðŸŒ¹ *!bc* - promosi
+ðŸŒ¹ *!leaveall* - keluar semua grup
+ðŸŒ¹ *!clearall* - hapus semua chat
+ðŸŒ¹ *!offbot* - mematikan bot
+ðŸŒ¹ *!onbot* - menyalahkan bot
+ðŸŒ¹ *!ressetbot* - resset system bot
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
-${gg} ${exists ? " exists " : "*Thank for Using REIN-BOT* 💕"}
+${gg} ${exists ? " exists " : "*Thank for Using VILLBOT"}
 _#tetap jaga kesehatan_ ^_^`, MessageType.text)
 conn.sendMessage(id, 'Menu VIP Free: *!prouser*', MessageType.text)
 }
@@ -194,114 +194,114 @@ const gg = idn+''
 
 const exists = await conn.isOnWhatsApp (gg)
 console.log(exists);
-conn.sendMessage(id ,`Haii, kak 👋
+conn.sendMessage(id ,`Haii, kak ðŸ‘‹
 
 *command perintah : !prouser*
 
-╔═ 〘 ♥REIN-BOT♥ 〙══╗
-╚════════════════════╝.
-╔ ═〘 ꜰɪᴛᴜʀᴇ ᴀʟʟ ᴜꜱᴇʀ 〙═╗
-🌹 *!nulis* [ masukan teks ]
-🌹 *!sticker/!sct*
-🌹 *!ttp*
-🌹 *!sim* [text pesan]
-🌹 *!bhsjepang*
-🌹 *!katabijak*
-🌹 *!fakta*
-🌹 *!pantun*
-🌹 *!pantuncinta*
-🌹 *!bucin*
-╚ ═════════════╝
-╔ ═〘 ʀᴇʟɪɢɪᴏᴜꜱ ᴄᴏᴍᴍᴀɴᴅ 〙╗
-🌹 *!quran*
-🌹 *!quran2*
-🌹 *!sholat* [ nama daerah ]
-🌹 *!surah*
-╚ ═════════════╝
-╔ ═〘 ᴄᴏᴍᴍᴀɴᴅ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ 〙╗
-🌹 *!ss*
-🌹 *!wiki*
-🌹 *!wikien*
-🌹 *!ssweb*
-🌹 *!jadwalTV*
-🌹 *!brainly*
-🌹 *!bitly*
-🌹 *!TIanime*
-🌹 *!svc* [ tag orng ny ]
-🌹 *!chord* [ nama music ]
-🌹 *!zodiak*
-🌹 *!listzodiak* [ error ]
-╚═════════════╝
-╔〘 ᴇɴᴛᴇʀᴛᴀɪɴᴍᴇɴᴛ ғᴇᴀᴛᴜʀᴇᴤ 〙╗
-🌹 *!quotes*
-🌹 *!quotes1*
-🌹 *!quotes2*
-🌹 *!motivasi*
-🌹 *!nama*
-🌹 *!namaninja*
-🌹 *!lirik* [ nama lagu ]
-🌹 *!igstalk* [ nama ig ]
-🌹 *!gay* [ tag orng ny ]
-🌹 *!buaya* [ tag orng ny ].
-🌹 *!bmkg*
-╚═════════════╝
-╔═〘 ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ᴄᴏᴍᴍᴀɴᴅꜱ 〙╗
-🌹 *!ytmp3* [ link ]
-🌹 *!ytmp4* [ link ]
-🌹 *!instagram* [ link ]
-🌹 *!twt* [ link ]
-🌹 *!facebook* [ link ]
-🌹 *!indohot* [ ILEGAL ]
-🌹 *!infoanime* [ Nama Anime ]
-╚═════════════╝
-╔═〘 ʀᴀɴᴅᴏᴍ ɪᴍᴀɢᴇᴤ 〙═╗
-🌹 *!kpop*
-🌹 *!meme*
-🌹 *!hentai enable*
-🌹 *!hentai*
-🌹 *!hentai disable*
-🌹 *!ptl cewek/cowok*
-🌹 *!pokemon*
-🌹 *!animeimg*
-🌹 *!nekonime*
-🌹 *!waifu*
-🌹 *!loli*
-╚ ═════════════╝
-╔═〘 ᴏᴛʜᴇʀᴤ ᴄᴏᴍᴍᴀɴᴅᴤ 〙═╗
-🌹 *!say*
-🌹 *!tts*
-🌹 *!simi* [text pesan]
-🌹 *!covidindo*
-🌹 *!covidcountry* [ negara ]
-🌹 *!puisi*
-🌹 *!puisi2*
-🌹 *!puisi3*
-🌹 *!cerpen*
-🌹 *!cersex*
-🌹 *!checkip* [Link]
-🌹 *!map*
-🌹 *!ping* [Link]
-🌹 *!hostsearch* [Link]
-🌹 *!cektanggal*
-╚═════════════╝
-╔═〘 ᴀʙᴏᴜᴛ ʙᴏᴛ 〙╗
-🌹 *!join*
-🌹 *!donasi*
-🌹 *!ownerbot*
-🌹 *!linkgroup*
-╚═════════════╝
-╔═〘 ᴏᴡɴᴇʀ ʙᴏᴛ 〙═╗
-🌹 *!ban* - banned
-🌹 *!bc* - promosi
-🌹 *!leaveall* - keluar semua grup
-🌹 *!clearall* - hapus semua chat
-🌹 *!offbot* - mematikan bot
-🌹 *!onbot* - menyalahkan bot
-🌹 *!ressetbot* - resset system bot
-🌹 *!replay enable* - Pesan Replay
-🌹 *!replay disable* - Peaan Replay
-╚═════════════╝
-${gg} ${exists ? " exists " : "*Thank for Using REIN-BOT* 💕"}
+â•”â• ã€˜ 🐌VILLBOT🐌 ã€™â•â•â•—
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•.
+â•” â•ã€˜ êœ°Éªá´›á´œÊ€á´‡ á´€ÊŸÊŸ á´œêœ±á´‡Ê€ ã€™â•â•—
+ðŸŒ¹ *!nulis* [ masukan teks ]
+ðŸŒ¹ *!sticker/!sct*
+ðŸŒ¹ *!ttp*
+ðŸŒ¹ *!sim* [text pesan]
+ðŸŒ¹ *!bhsjepang*
+ðŸŒ¹ *!katabijak*
+ðŸŒ¹ *!fakta*
+ðŸŒ¹ *!pantun*
+ðŸŒ¹ *!pantuncinta*
+ðŸŒ¹ *!bucin*
+â•š â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+â•” â•ã€˜ Ê€á´‡ÊŸÉªÉ¢Éªá´á´œêœ± á´„á´á´á´á´€É´á´… ã€™â•—
+ðŸŒ¹ *!quran*
+ðŸŒ¹ *!quran2*
+ðŸŒ¹ *!sholat* [ nama daerah ]
+ðŸŒ¹ *!surah*
+â•š â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+â•” â•ã€˜ á´„á´á´á´á´€É´á´… ÉªÉ´êœ°á´Ê€á´á´€á´›Éªá´É´ ã€™â•—
+ðŸŒ¹ *!ss*
+ðŸŒ¹ *!wiki*
+ðŸŒ¹ *!wikien*
+ðŸŒ¹ *!ssweb*
+ðŸŒ¹ *!jadwalTV*
+ðŸŒ¹ *!brainly*
+ðŸŒ¹ *!bitly*
+ðŸŒ¹ *!TIanime*
+ðŸŒ¹ *!svc* [ tag orng ny ]
+ðŸŒ¹ *!chord* [ nama music ]
+ðŸŒ¹ *!zodiak*
+ðŸŒ¹ *!listzodiak* [ error ]
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•
+â•”ã€˜ á´‡É´á´›á´‡Ê€á´›á´€ÉªÉ´á´á´‡É´á´› Ò“á´‡á´€á´›á´œÊ€á´‡á´¤ ã€™â•—
+ðŸŒ¹ *!quotes*
+ðŸŒ¹ *!quotes1*
+ðŸŒ¹ *!quotes2*
+ðŸŒ¹ *!motivasi*
+ðŸŒ¹ *!nama*
+ðŸŒ¹ *!namaninja*
+ðŸŒ¹ *!lirik* [ nama lagu ]
+ðŸŒ¹ *!igstalk* [ nama ig ]
+ðŸŒ¹ *!gay* [ tag orng ny ]
+ðŸŒ¹ *!buaya* [ tag orng ny ].
+ðŸŒ¹ *!bmkg*
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•
+â•”â•ã€˜ á´…á´á´¡É´ÊŸá´á´€á´…á´‡Ê€ á´„á´á´á´á´€É´á´…êœ± ã€™â•—
+ðŸŒ¹ *!ytmp3* [ link ]
+ðŸŒ¹ *!ytmp4* [ link ]
+ðŸŒ¹ *!instagram* [ link ]
+ðŸŒ¹ *!twt* [ link ]
+ðŸŒ¹ *!facebook* [ link ]
+ðŸŒ¹ *!indohot* [ ILEGAL ]
+ðŸŒ¹ *!infoanime* [ Nama Anime ]
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•
+â•”â•ã€˜ Ê€á´€É´á´…á´á´ Éªá´á´€É¢á´‡á´¤ ã€™â•â•—
+ðŸŒ¹ *!kpop*
+ðŸŒ¹ *!meme*
+ðŸŒ¹ *!hentai enable*
+ðŸŒ¹ *!hentai*
+ðŸŒ¹ *!hentai disable*
+ðŸŒ¹ *!ptl cewek/cowok*
+ðŸŒ¹ *!pokemon*
+ðŸŒ¹ *!animeimg*
+ðŸŒ¹ *!nekonime*
+ðŸŒ¹ *!waifu*
+ðŸŒ¹ *!loli*
+â•š â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+â•”â•ã€˜ á´á´›Êœá´‡Ê€á´¤ á´„á´á´á´á´€É´á´…á´¤ ã€™â•â•—
+ðŸŒ¹ *!say*
+ðŸŒ¹ *!tts*
+ðŸŒ¹ *!simi* [text pesan]
+ðŸŒ¹ *!covidindo*
+ðŸŒ¹ *!covidcountry* [ negara ]
+ðŸŒ¹ *!puisi*
+ðŸŒ¹ *!puisi2*
+ðŸŒ¹ *!puisi3*
+ðŸŒ¹ *!cerpen*
+ðŸŒ¹ *!cersex*
+ðŸŒ¹ *!checkip* [Link]
+ðŸŒ¹ *!map*
+ðŸŒ¹ *!ping* [Link]
+ðŸŒ¹ *!hostsearch* [Link]
+ðŸŒ¹ *!cektanggal*
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•
+â•”â•ã€˜ á´€Ê™á´á´œá´› Ê™á´á´› ã€™â•—
+ðŸŒ¹ *!join*
+ðŸŒ¹ *!donasi*
+ðŸŒ¹ *!ownerbot*
+ðŸŒ¹ *!linkgroup*
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•
+â•”â•ã€˜ á´á´¡É´á´‡Ê€ Ê™á´á´› ã€™â•â•—
+ðŸŒ¹ *!ban* - banned
+ðŸŒ¹ *!bc* - promosi
+ðŸŒ¹ *!leaveall* - keluar semua grup
+ðŸŒ¹ *!clearall* - hapus semua chat
+ðŸŒ¹ *!offbot* - mematikan bot
+ðŸŒ¹ *!onbot* - menyalahkan bot
+ðŸŒ¹ *!ressetbot* - resset system bot
+ðŸŒ¹ *!replay enable* - Pesan Replay
+ðŸŒ¹ *!replay disable* - Peaan Replay
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•
+${gg} ${exists ? " exists " : "*Thank for Using VILLBOT"}
 _#tetap jaga kesehatan_ ^_^`, MessageType.text)
 conn.sendMessage(id, 'Menu Admin Grup: *!menuadmin*', MessageType.text)
 }
@@ -314,11 +314,14 @@ const gg = idn+''
 
 const exists = await conn.isOnWhatsApp (gg)
 console.log(exists);
-conn.sendMessage(id ,`╔ ═〘 *♥ ️REIN-BOT♥ ️* 〙╗
+conn.sendMessage(id ,`â•” â•ã€˜ *â™¥ ï¸VILLBOT
+
+
+ 
 
 *BAKAA!!* Bot tidak dapat join harus di lakukan secara manual/meminta kepada owner bot
 
-${gg} ${exists ? " exists " : "*[ REIN-BOT ]* 💕"}`, MessageType.text)
+${gg} ${exists ? " exists " : "*[ VILLBOT* "}`, MessageType.text)
 }
 if(text.includes("!kick")){
 var num = text.replace(/!help/ , "")
@@ -329,11 +332,11 @@ const gg = idn+''
 
 const exists = await conn.isOnWhatsApp (gg)
 console.log(exists);
-conn.sendMessage(id ,`╔ ═〘 *♥  ️REIN-BOT♥  ️* 〙╗
+conn.sendMessage(id ,`â•” â•ã€˜ *â™¥  ï¸VILLBOT* ã€™â•—
 
 *BAKAA!!* Bot tidak dapat mengeluarkan karena bot bkn Admin grup
 
-${gg} ${exists ? " exists " : "*[ REIN-BOT ]* 💕"}`, MessageType.text)
+${gg} ${exists ? " exists " : "*[ REIN-BOT ]* ðŸ’•"}`, MessageType.text)
 }
 if(text.includes("!nhentai")){
 var num = text.replace(/!help/ , "")
@@ -344,7 +347,7 @@ const gg = idn+''
 
 const exists = await conn.isOnWhatsApp (gg)
 console.log(exists);
-conn.sendMessage(id ,`╔ ═〘 *♥️NHENTAI ♥* 〙╗
+conn.sendMessage(id ,`â•” â•ã€˜ *â™¥ï¸NHENTAI â™¥* ã€™â•—
 CODE NUKLIR 
 192704 NTR bathroom
 313777 NTR senpai
@@ -419,8 +422,8 @@ CODE NUKLIR
 /g/146042/ - Bismarck wa Shounen Teitoku kara Seifuku
 /g/178941/ - Kodomo-Sensei
 /g/100401/ - Sister paradise
-�229144 253687 238577 236509
-�227675 229085 233245 266177
+â€229144 253687 238577 236509
+â€227675 229085 233245 266177
 254351 265855 239842 219847
 239749 230566 253104 230185
 251974 253091 251489 238030
@@ -441,10 +444,10 @@ CODE NUKLIR
 163532 255244 269825 235914
 247103 138365 124624 219718
 168941 265918 205995 191390
-�225496 259137 231681 161688
-�199613 259260 260433 235532 
-�88323 272117 170213 256613
-�258382 224942
+â€225496 259137 231681 161688
+â€199613 259260 260433 235532 
+â€88323 272117 170213 256613
+â€258382 224942
 
 /g/181556/ - Fudeoro Sisters
 /g/152456/ - Mou Teitoku No Soba 
@@ -547,8 +550,8 @@ CODE NUKLIR
 /g/195092/ - Imouto no Oppai ga Marudashi Datta Hanashi 3
 /g/195093/ - Imouto no Oppai ga Marudashi Datta Hanashi 4
 
-�229144 253687 238577 236509
-�227675 229085 233245 266177
+â€229144 253687 238577 236509
+â€227675 229085 233245 266177
 254351 265855 239842 219847
 239749 230566 253104 230185
 251974 253091 251489 238030
@@ -569,16 +572,16 @@ CODE NUKLIR
 163532 255244 269825 235914
 247103 138365 124624 219718
 168941 265918 205995 191390
-�225496 259137 231681 161688
-�199613 259260 260433 235532
-�88323 272117 170213 256613
-�258382 224942
+â€225496 259137 231681 161688
+â€199613 259260 260433 235532
+â€88323 272117 170213 256613
+â€258382 224942
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-● Milf ●
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+â— Milf â—
 165310,177978,211759,212643,229540, 250029,211519,256097,163478, 91505, 79280, 260629,128051,121972,261633,172044,19055,208323,149942,161236, 177150,233766,97949,230107 ,175822, 213545,232837,179166,138603,130183, 173543,234642,268015,228293,268893, 239536, yg suka mamah
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-● Random ●
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+â— Random â—
 257892 226942 236297 216039 221711 245304 166174 175220
 
 107817 MASTURBATION MAID
@@ -768,7 +771,7 @@ CODE NUKLIR
 144714 228575 268002 267980 227439 267980
 268015 89502 228575 220893 160609 261107 110747 235532 248196 228948 259361 235032 139512 257528 260369 261650 234174 116174 239732 213835 146913 216227 182290 117013 259600 139512 258479 173101 235532 258488 264551 263661 242668 154884 150096 265842 259137 781573 234734 244436 265841 265837 255337 110955 265842 266301 928040 122557 135420 209519 265756 136489 242517 266965 134035 266613 183469 244996 255662 267352 208797 267270 267043 213560 261868 267352 186938 267369 263516 266942 111292 233513 262069 172807 263960 184840 266495 252548 267617 193770 262668 225918 147759 154290 240108 240110 208486 240113 242586 257960 109168 109395 109519 112206 231215 246186 267980 259491 265933 196016 235032 228948 131056 121927 134861 195791 116300 268362 152889 134500 268338 220735 192060 113276 265526 264824 126784 191851 103366 229144 158651 257484 248696 265804 206387 158123 136188 235928 194941 208797 241819 239732 215376 220212 165957 266906
 
-${gg} ${exists ? " exists " : "*[ REIN-BOT ]* 💕"}`, MessageType.text)
+${gg} ${exists ? " exists " : "*[ REIN-BOT ]* ðŸ’•"}`, MessageType.text)
 }
 if(text.includes("!bhsjepang")){
 var num = text.replace(/!help/ , "")
@@ -779,77 +782,77 @@ const gg = idn+''
 
 const exists = await conn.isOnWhatsApp (gg)
 console.log(exists);
-conn.sendMessage(id ,`╔ ═〘 *♥  ️REIN-BOT♥  ️* 〙╗
+conn.sendMessage(id ,`â•” â•ã€˜ *â™¥  ï¸REIN-BOTâ™¥  ï¸* ã€™â•—
 
 *[ Bahasa Jepang yang paling umum ]*
 
-• Senpai = Senior 
-• Kouhai = Junior 
-• Hidoi = Jahat 
-• Dousta? = Kenapa?, Ada apa? 
-• Nani!! = Apa!! 
-• Zutto = Kalau saja, Selalu 
-• Kirei = Indah 
-• Kawaii = Cantik, Imut 
-• Yaksoku = Janji 
-• Kedo/Demo = Tapi 
-• Warui/Gomen = Maaf 
-• Sumimasen = Permisi, maaf 
-• Omedetou, ne = selamat ya 
-• Dame = Jangan, Tidak 
-• Sugoi! = Hebat, Keren 
-• Daijoubu desu = Saya tidak apa apa / Saya baik baik saja 
-• Hanabi = Kembang api 
-• Tadaima = Aku pulang 
-• Okaerinasai = Selamat pulang 
-• Ja, mata/ Mata ne = Sampai jumpa 
-• Ittekimasu = Aku berangkat 
-•Itterasshai = Hati hati di jalan 
-• Ohayou gozaimasu= Selamat Pagi 
-• Konnichiwa (ha) = Selamat Siang 
-• Konbanwa (ha) = Selamat Malam 
-• Oyasuminasai = Selamat tidur 
-• Moshi-moshi = Halo (di ucapkan ketika berada dalam sosmed) 
-• Zannen desu = Sayang sekali 
-• Irasshaimase = Selamat datang 
-• Onegai = Tolong 
-• Yoroshiku Onegaishimasu = Mohon bimbingannya/bantuannya 
-• Doumo/Arigatou = Terima Kasih 
-• Iya = Hai 
-• Iie = Tidak 
-• Ittadakimasu = Selamat makan 
-• Nandemonai = Bukan apa apa 
-• Nanda korewa? = Apa ini? 
-• Dare desu ka? = Siapa ini? 
-• Wakatta = Oke, ngerti. 
-• Sou ne .. = Begitulah, Mungkin 
-• Masaka.... = Nggak mungkin..... (ah masa .....) 
-• Naru hodo = Oh gitu 
-•Yokatta... = Syukurlah.... 
-• Hontou ni?/Souka? = Bener gitu?
-• Kimi wa boku no mono = kamu milikku
-• Ki o tsukete ne = Hati-hati yah~ 
-• Onaka ga suita = Aku lapar
-• Itadakimassuuu = Selamat Makaaannn 
-• Ii yume wo mite ne = Mimpi indah yah, 
-• Yatta ! = Horee! 
-• Kawaisou ni... = kasian... 
-• Chotto matte ! = Tunggu bentar! 
-• Uso = Bohong 
-• Uso tsuki ! = Tukang bohong! 
-• Uso Jyanai! = Jangan bohong! 
-• Nan da yo!? = Apa kau!? 
-• Damare! = Diammm! 
-• Omae wa kankei nai darou.. ! = Bukan urusanmu..! 
-• Mata ne / Mata yo ~ = Sampe jumpa~ 
- • Jibun no seida = Salah sendiri 
-• Hitomebore datta no yo... = Cinta pada pandangan pertama
-• Doki-doki shichatta yo... = Aku jadi deg-degan nih... 
-• Suki da .. = Aku suka kamu 
-• Kareshi ga iru no ? = Udah punya pacar? 
-• Bukkoroshite yaru! = Akan kubunuh kau! (bisanya diucapkan kalau lagi pada berantem).
+â€¢ Senpai = Senior 
+â€¢ Kouhai = Junior 
+â€¢ Hidoi = Jahat 
+â€¢ Dousta? = Kenapa?, Ada apa? 
+â€¢ Nani!! = Apa!! 
+â€¢ Zutto = Kalau saja, Selalu 
+â€¢ Kirei = Indah 
+â€¢ Kawaii = Cantik, Imut 
+â€¢ Yaksoku = Janji 
+â€¢ Kedo/Demo = Tapi 
+â€¢ Warui/Gomen = Maaf 
+â€¢ Sumimasen = Permisi, maaf 
+â€¢ Omedetou, ne = selamat ya 
+â€¢ Dame = Jangan, Tidak 
+â€¢ Sugoi! = Hebat, Keren 
+â€¢ Daijoubu desu = Saya tidak apa apa / Saya baik baik saja 
+â€¢ Hanabi = Kembang api 
+â€¢ Tadaima = Aku pulang 
+â€¢ Okaerinasai = Selamat pulang 
+â€¢ Ja, mata/ Mata ne = Sampai jumpa 
+â€¢ Ittekimasu = Aku berangkat 
+â€¢Itterasshai = Hati hati di jalan 
+â€¢ Ohayou gozaimasu= Selamat Pagi 
+â€¢ Konnichiwa (ha) = Selamat Siang 
+â€¢ Konbanwa (ha) = Selamat Malam 
+â€¢ Oyasuminasai = Selamat tidur 
+â€¢ Moshi-moshi = Halo (di ucapkan ketika berada dalam sosmed) 
+â€¢ Zannen desu = Sayang sekali 
+â€¢ Irasshaimase = Selamat datang 
+â€¢ Onegai = Tolong 
+â€¢ Yoroshiku Onegaishimasu = Mohon bimbingannya/bantuannya 
+â€¢ Doumo/Arigatou = Terima Kasih 
+â€¢ Iya = Hai 
+â€¢ Iie = Tidak 
+â€¢ Ittadakimasu = Selamat makan 
+â€¢ Nandemonai = Bukan apa apa 
+â€¢ Nanda korewa? = Apa ini? 
+â€¢ Dare desu ka? = Siapa ini? 
+â€¢ Wakatta = Oke, ngerti. 
+â€¢ Sou ne .. = Begitulah, Mungkin 
+â€¢ Masaka.... = Nggak mungkin..... (ah masa .....) 
+â€¢ Naru hodo = Oh gitu 
+â€¢Yokatta... = Syukurlah.... 
+â€¢ Hontou ni?/Souka? = Bener gitu?
+â€¢ Kimi wa boku no mono = kamu milikku
+â€¢ Ki o tsukete ne = Hati-hati yah~ 
+â€¢ Onaka ga suita = Aku lapar
+â€¢ Itadakimassuuu = Selamat Makaaannn 
+â€¢ Ii yume wo mite ne = Mimpi indah yah, 
+â€¢ Yatta ! = Horee! 
+â€¢ Kawaisou ni... = kasian... 
+â€¢ Chotto matte ! = Tunggu bentar! 
+â€¢ Uso = Bohong 
+â€¢ Uso tsuki ! = Tukang bohong! 
+â€¢ Uso Jyanai! = Jangan bohong! 
+â€¢ Nan da yo!? = Apa kau!? 
+â€¢ Damare! = Diammm! 
+â€¢ Omae wa kankei nai darou.. ! = Bukan urusanmu..! 
+â€¢ Mata ne / Mata yo ~ = Sampe jumpa~ 
+ â€¢ Jibun no seida = Salah sendiri 
+â€¢ Hitomebore datta no yo... = Cinta pada pandangan pertama
+â€¢ Doki-doki shichatta yo... = Aku jadi deg-degan nih... 
+â€¢ Suki da .. = Aku suka kamu 
+â€¢ Kareshi ga iru no ? = Udah punya pacar? 
+â€¢ Bukkoroshite yaru! = Akan kubunuh kau! (bisanya diucapkan kalau lagi pada berantem).
 
-${gg} ${exists ? " exists " : "*[ REIN-BOT ]* 💕"}`, MessageType.text)
+${gg} ${exists ? " exists " : "*[ REIN-BOT ]* ðŸ’•"}`, MessageType.text)
 }
 if(text.includes("!menuadmin")){
 var num = text.replace(/!help/ , "")
@@ -860,15 +863,15 @@ const gg = idn+''
 
 const exists = await conn.isOnWhatsApp (gg)
 console.log(exists);
-conn.sendMessage(id ,` ╭───「 *ADMIN GRUP* 」
-├≽ ️!kick (tag member ny)
-├≽️ !kick all (Owner Grup)
-├≽️ !demote @
-├≽️ !promote @
-├≽️ !close 
-├≽️ !opengrup
-╰─────────
-${gg} ${exists ? " " : "*Thank for Using REIN-BOT* 💕"}
+conn.sendMessage(id ,` â•­â”€â”€â”€ã€Œ *ADMIN GRUP* ã€
+â”œâ‰½ ï¸!kick (tag member ny)
+â”œâ‰½ï¸ !kick all (Owner Grup)
+â”œâ‰½ï¸ !demote @
+â”œâ‰½ï¸ !promote @
+â”œâ‰½ï¸ !close 
+â”œâ‰½ï¸ !opengrup
+â•°â”€â”€â”€â”€â”€â”€â”€â”€â”€
+${gg} ${exists ? " " : "*Thank for Using REIN-BOT* ðŸ’•"}
 _#tetap jaga kesehatan_ ^_^`, MessageType.text)
 }
 if(text.includes("!listzodiak")){
@@ -880,20 +883,20 @@ const gg = idn+''
 
 const exists = await conn.isOnWhatsApp (gg)
 console.log(exists);
-conn.sendMessage(id ,`╭───「 *ZODIAK LIST* 」
-├≽  Zodiak Aries (21 Maret – 20 April)
-├≽ ️Zodiak Taurus (21 April – 20 Mei)
-├≽ ️Zodiak Gemini (21 Mei – 20 Juni)
-├≽ ️Zodiak Cancer (21 Juni – 20 Juli)
-├≽ ️Zodiak Leo (21 Juli – 21 Agustus)
-├≽ ️Zodiak Virgo (22 Agustus – 22 September)
-├≽ ️Zodiak Libra (23 September – 22 Oktober)
-├≽ ️Zodiak Scorpio (23 Oktober – 22 November)
-├≽ ️Zodiak Sagittarius (23 November – 20 Desember)
-├≽ ️Zodiak Capricorn (21 Desember – 19 Januari)
-├≽ ️Zodiak Aquarius (20 Januari – 18 Februari)
-├≽ ️Zodiak Pisces (19 Februari – 20 Maret)
-╰───────── ${gg} ${exists ? " " : "*Thank for Using REIN-BOT* 💕"}`, MessageType.text)
+conn.sendMessage(id ,`â•­â”€â”€â”€ã€Œ *ZODIAK LIST* ã€
+â”œâ‰½  Zodiak Aries (21 Maret â€“ 20 April)
+â”œâ‰½ ï¸Zodiak Taurus (21 April â€“ 20 Mei)
+â”œâ‰½ ï¸Zodiak Gemini (21 Mei â€“ 20 Juni)
+â”œâ‰½ ï¸Zodiak Cancer (21 Juni â€“ 20 Juli)
+â”œâ‰½ ï¸Zodiak Leo (21 Juli â€“ 21 Agustus)
+â”œâ‰½ ï¸Zodiak Virgo (22 Agustus â€“ 22 September)
+â”œâ‰½ ï¸Zodiak Libra (23 September â€“ 22 Oktober)
+â”œâ‰½ ï¸Zodiak Scorpio (23 Oktober â€“ 22 November)
+â”œâ‰½ ï¸Zodiak Sagittarius (23 November â€“ 20 Desember)
+â”œâ‰½ ï¸Zodiak Capricorn (21 Desember â€“ 19 Januari)
+â”œâ‰½ ï¸Zodiak Aquarius (20 Januari â€“ 18 Februari)
+â”œâ‰½ ï¸Zodiak Pisces (19 Februari â€“ 20 Maret)
+â•°â”€â”€â”€â”€â”€â”€â”€â”€â”€ ${gg} ${exists ? " " : "*Thank for Using REIN-BOT* ðŸ’•"}`, MessageType.text)
 }
 
 
@@ -946,28 +949,28 @@ conn.sendMessage(id, 'Ya?, Ketik #help/#info/#donasi Contoh #help' ,MessageType.
 else if (text == 'Woi6-----'){
 conn.sendMessage(id, 'Ya?, Ketik #help/#info/#donasi Contoh #help' ,MessageType.text);
 }
-else if (text == 'E6&76_^√®√×√¶oy'){
+else if (text == 'E6&76_^âˆšÂ®âˆšÃ—âˆšÂ¶oy'){
 conn.sendMessage(id, 'Ya?, Ketik #help/#info/#donasi Contoh #help' ,MessageType.text);
 }
-else if (text == '√^√¥¥π{√{Hi'){
+else if (text == 'âˆš^âˆšÂ¥Â¥Ï€{âˆš{Hi'){
 conn.sendMessage(id, 'Ya?, Ketik #help/#info/#donasi Contoh #help' ,MessageType.text);
 }
-else if (text == 'Ga×√×√√×√×n'){
+else if (text == 'GaÃ—âˆšÃ—âˆšâˆšÃ—âˆšÃ—n'){
 conn.sendMessage(id, 'Ya?, Ketik #help/#info/#donasi Contoh #help' ,MessageType.text);
 }
-else if (text == 'Siπ}^π¶¥πs'){
+else if (text == 'SiÏ€}^Ï€Â¶Â¥Ï€s'){
 conn.sendMessage(id, 'Ya?, Ketik #help/#info/#donasi Contoh #help' ,MessageType.text);
 }
-else if (text == 'Bro•π¶π¶π'){
+else if (text == 'Broâ€¢Ï€Â¶Ï€Â¶Ï€'){
 conn.sendMessage(id, 'Ya?, Ketik #help/#info/#donasi Contoh #help' ,MessageType.text);
 }
-else if (text == 'Minπ}π•π¶¥π'){
+else if (text == 'MinÏ€}Ï€â€¢Ï€Â¶Â¥Ï€'){
 conn.sendMessage(id, 'Ya?, Ketik #help/#info/#donasi Contoh #help' ,MessageType.text);
 }
 else if (text == 'tggt'){
 conn.sendMessage(id, 'Ya?, Ketik #help/#info/#donasi Contoh #help' ,MessageType.text);
 }
-else if (text == 'I ••¥••×©√×®√×®√®√×®√×√¶ve u'){
+else if (text == 'I â€¢â€¢Â¥â€¢â€¢Ã—Â©âˆšÃ—Â®âˆšÃ—Â®âˆšÂ®âˆšÃ—Â®âˆšÃ—âˆšÂ¶ve u'){
 conn.sendMessage(id, 'love you too' ,MessageType.text);
 }
 else if (text == 'Mas'){
@@ -1042,7 +1045,7 @@ if (text.includes('!nulis')){
       imageToBase64(res.data.result)
         .then(
           (ress) => {
-            conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+            conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
             var buf = Buffer.from(ress, 'base64')
             conn.sendMessage(id, buf, MessageType.image)
         })
@@ -1055,7 +1058,7 @@ if (text.includes('!nulis')){
       imageToBase64(res.data.result)
         .then(
           (ress) => {
-            conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+            conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
             var buf = Buffer.from(ress, 'base64')
             conn.sendMessage(id, buf, MessageType.image)
         })
@@ -1068,7 +1071,7 @@ if (text.includes('!nekonime')){
       imageToBase64(res.data.result)
         .then(
           (ress) => {
-            conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+            conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
             var buf = Buffer.from(ress, 'base64')
             conn.sendMessage(id, buf, MessageType.image)
         })
@@ -1081,7 +1084,7 @@ if (text.includes('!waifu')){
       imageToBase64(res.data.result)
         .then(
           (ress) => {
-            conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+            conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
             var buf = Buffer.from(ress, 'base64')
             conn.sendMessage(id, buf, MessageType.image)
         })
@@ -1094,7 +1097,7 @@ if (text.includes('!kpop')){
       imageToBase64(res.data.result)
         .then(
           (ress) => {
-            conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+            conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
             var buf = Buffer.from(ress, 'base64')
             conn.sendMessage(id, buf, MessageType.image)
         })
@@ -1107,7 +1110,7 @@ if (text.includes('!loli')){
       imageToBase64(res.data.result)
         .then(
           (ress) => {
-            conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+            conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
             var buf = Buffer.from(ress, 'base64')
             conn.sendMessage(id, buf, MessageType.image)
         })
@@ -1130,7 +1133,7 @@ var buf = Buffer.from(response, 'base64'); // Ta-da<--->
      conn.sendMessage(
             id,
               buf,MessageType.image)                                                                                                
-              conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+              conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
             }
         )
         .catch(
@@ -1156,8 +1159,8 @@ var buf = Buffer.from(response, 'base64'); // Ta-da<--->
 if (text.includes("!bmkg")){
   const aris = text.replace(/!infogempa /, "")
   axios.get(`https://arugaz.herokuapp.com/api/infogempa`).then ((res) =>{
-  conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
-  let hasil = ` *Info Gempa* \n\ *Lokasi 📍* : _${res.data.lokasi}_ \n *Kedalaman 〽 ️* : _${res.data.kedalaman}_ \n *Koordinat ️📌* : _${res.data.koordinat}_ \n *Magnitude 💢* : _${res.data.magnitude}_ \n *Waktu ⏳* : _${res.data.waktu}_ `;
+  conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
+  let hasil = ` *Info Gempa* \n\ *Lokasi ðŸ“* : _${res.data.lokasi}_ \n *Kedalaman ã€½ ï¸* : _${res.data.kedalaman}_ \n *Koordinat ï¸ðŸ“Œ* : _${res.data.koordinat}_ \n *Magnitude ðŸ’¢* : _${res.data.magnitude}_ \n *Waktu â³* : _${res.data.waktu}_ `;
   conn.sendMessage(id, hasil, MessageType.text);
 })
 }
@@ -1189,7 +1192,7 @@ var buf = Buffer.from(response, 'base64'); // Ta-da<--->
               conn.sendMessage(
             id,
               buf,MessageType.image)
-              conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+              conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
             }
         )
         .catch(
@@ -1202,15 +1205,15 @@ var buf = Buffer.from(response, 'base64'); // Ta-da<--->
 if (text.includes("!igstalk")){
   const aris = text.replace(/!igstalk /, "")
   axios.get(`https://alfians-api.herokuapp.com/api/stalk?username=${aris}`).then ((res) =>{
-  conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
-  let hasil = `Info Instagram *_${aris}_* \n\n *Username* : _${res.data.Username}_ \n *Nama ️* : _${res.data.Name}_. \n *Jumlah Followers ️* : _${res.data.Jumlah_Followers}_ \n *Jumlah Following ️* : _${res.data.Jumlah_Following}_ \n *Jumlah Post ️* : _${res.data.Jumlah_Post}_ `;
+  conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
+  let hasil = `Info Instagram *_${aris}_* \n\n *Username* : _${res.data.Username}_ \n *Nama ï¸* : _${res.data.Name}_. \n *Jumlah Followers ï¸* : _${res.data.Jumlah_Followers}_ \n *Jumlah Following ï¸* : _${res.data.Jumlah_Following}_ \n *Jumlah Post ï¸* : _${res.data.Jumlah_Post}_ `;
   conn.sendMessage(id, hasil, MessageType.text);
 })
 }
 if (text.includes("!infoanime")){
 const aris = text.replace(/!infoanime /, "")
 axios.get(`https://arugaz.herokuapp.com/api/dewabatch?q=${aris}`).then((res) => {
-conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
     let hasil = ` *Info Anime* ${aris} : \n\n ${res.data.result} `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1218,7 +1221,7 @@ conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', Me
 if (text.includes("!animek")){
 const aris = text.replace(/!infoanime /, "")
 axios.get(`https://mhankbarbars.herokuapp.com/api/kuso?q=${aris}`).then((res) => {
-conn.sendMessage(id, '[WAIT] Proses...❗', MessageType.text)
+conn.sendMessage(id, '[WAIT] Proses...â—', MessageType.text)
     let hasil = ` *Info Anime* ${aris} : \n\n ${res.data.result} `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1226,7 +1229,7 @@ conn.sendMessage(id, '[WAIT] Proses...❗', MessageType.text)
      if (text.includes("!covidcountry")){
 const aris = text.replace(/!covidcountry /, "")
 axios.get(`https://arugaz.herokuapp.com/api/corona?country=${aris}`).then((res) => {
-conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
     let hasil = `Negara : ${res.data.result.country}\n\nActive : ${res.data.result.active}\ncasesPerOneMillion :${res.data.result.casesPerOneMillion}\ncritical : ${res.data.result.critical}\ndeathsPerOneMillion : ${res.data.result.deathsPerOneMillion}\nrecovered : ${res.data.result.recovered}\ntestPerOneMillion : ${res.data.result.testPerOneMillion}\ntodayCases : ${res.data.result.todayCases}\ntodayDeath : ${res.data.result.todayDeath}\ntotalCases : ${res.data.result.totalCases}\ntotalTest : ${res.data.result.totalTest}`;
     conn.sendMessage(id, hasil ,MessageType.text);
   })
@@ -1234,7 +1237,7 @@ conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', Me
 if (text.includes("!animek")){
 const aris = text.replace(/!infoanime /, "")
 axios.get(`https://mhankbarbars.herokuapp.com/api/kuso?q=${aris}`).then((res) => {
-conn.sendMessage(id, '[WAIT] Proses...❗', MessageType.text)
+conn.sendMessage(id, '[WAIT] Proses...â—', MessageType.text)
     let hasil = ` *Info Anime* ${aris} : \n\n ${res.data.result} `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1263,7 +1266,7 @@ axios.get(`https://api.banghasan.com/domain/hostsearch/${aris}`).then((res) => {
 if (text.includes("!zodiak")){
 const aris = text.replace(/!zodiak /, "")
 axios.get(`https://arugaz.herokuapp.com/api/getzodiak?nama=aruga&tgl-bln-thn=${aris}`).then((res) => {
-    let hasil = `➸ Lahir : ${res.data.lahir}\n➸ ultah : ${res.data.ultah}\n➸  ️usia : ${res.data.usia}\n➸ zodiak : ${res.data.zodiak} ️`;
+    let hasil = `âž¸ Lahir : ${res.data.lahir}\nâž¸ ultah : ${res.data.ultah}\nâž¸  ï¸usia : ${res.data.usia}\nâž¸ zodiak : ${res.data.zodiak} ï¸`;
     conn.sendMessage(id, hasil ,MessageType.text);
   })
  }
@@ -1275,7 +1278,7 @@ conn.sendMessage(id, teks, MessageType.text)
 if (text.includes("!ytmp3")){
 const teks = text.replace(/!ytmp3 /, "")
 axios.get(`https://alfians-api.herokuapp.com/api/yta?url=${teks}`).then((res) => {
-	conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+	conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
     let hasil = `Lagu Berhasil Di Download, silahkan klik link dan download hasilnya\nKlik link dibawah\n\nJudul: ${res.data.title}\n\nUkuran audio: ${res.data.filesize}\n\nLink: ${res.data.result}`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1284,7 +1287,7 @@ axios.get(`https://alfians-api.herokuapp.com/api/yta?url=${teks}`).then((res) =>
 if (text.includes("!ytmp4")){
 const teks = text.replace(/!ytmp4 /, "")
 axios.get(`https://alfians-api.herokuapp.com/api/ytv?url=${teks}`).then((res) => {
-	conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+	conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
     let hasil = `Video Berhasil Di Download, silahkan klik link dan download hasilnya\nKlik link dibawah\n\nJudul: ${res.data.title}\n\nUkuran video: ${res.data.filesize}\n\nLink: ${res.data.result}`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1293,7 +1296,7 @@ axios.get(`https://alfians-api.herokuapp.com/api/ytv?url=${teks}`).then((res) =>
 if (text.includes("!twt")){
 const teks = text.replace(/!twt /, "")
 axios.get(`https://mhankbarbar.herokuapp.com/api/twit?url=${teks}&apiKey=zFuV88pxcIiCWuYlwg57`).then((res) => {
-	conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+	conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
     let hasil = `Berhasil$ silahkan klik link di bawah untuk mendownload hasilnya$\nKlik link dibawah\n\nSize: ${res.data.filesize}\n\nLink: ${res.data.result}`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1302,13 +1305,13 @@ axios.get(`https://mhankbarbar.herokuapp.com/api/twit?url=${teks}&apiKey=zFuV88p
 if (text.includes("!tts")){
 const teks = text.replace(/!tts /, "")
 const gtts = (`https://rest.farzain.com/api/tts.php?id=${teks}&apikey=O8mUD3YrHIy9KM1fMRjamw8eg`)
-conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
     conn.sendMessage(id, gtts ,MessageType.text);
 }
 if (text.includes("!tiktok")) {
 const tictoc = text.replace(/!tiktok /, "")
 axios.get(`https://st4rz.herokuapp.com/api/tiktok?url=${tictoc}`).then((res) => {
-	 conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+	 conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
      let titoe = `Berhasil$$$ Silahkan klik link dibawah ini untuk mendownload hasilnya$ \nKlik link dibawah\n\nJudul: ${res.data.deskripsi} \n\nDurasi: ${res.data.durasi}\n\nNama: ${res.data.nama}\n\nUrl: ${res.data.urlvideo}`;
 conn.sendMessage(id, titoe, MessageType.text);
 })
@@ -1333,7 +1336,7 @@ axios.get(`https://st4rz.herokuapp.com/api/ig?url=${teks}`).then((res) => {
 if (text.includes("!Wiki")){
 const teks = text.replace(/!Wiki /, "")
 axios.get(`https://mhankbarbar.herokuapp.com/api/quotesnime/random=${teks}`).then((res) => {
-conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
     let hasil = `Menurut Wikipedia:\n\n${res.data.result}`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1341,7 +1344,7 @@ conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', Me
 if (text.includes("!wiki")){
 const teks = text.replace(/!wiki /, "")
 axios.get(`https://mhankbarbar.herokuapp.com/api/wiki?q=${teks}`).then((res) => {
-conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
     let hasil = `Menurut Wikipedia:\n\n${res.data.result}`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1349,7 +1352,7 @@ conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', Me
 if (text.includes("!sholat")){
   const teks = text.replace(/!sholat /, "")
   axios.get(`https://mhankbarbar.herokuapp.com/api/jadwalshalat?daerah=${teks}`).then ((res) =>{
-  conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+  conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
   let hasil = `Jadwal sholat di ${teks} hari ini adalah\n\nImsyak : ${res.data.Imsyak}\nSubuh : ${res.data.Subuh} \nDzuhur : ${res.data.Dzuhur}\nAshar : ${res.data.Ashar} \nMaghrib : ${res.data.Maghrib}\nIsya : ${res.data.Isya} \nTengah malam : ${res.data.Dhuha} `;
   conn.sendMessage(id, hasil, MessageType.text);
 })
@@ -1374,7 +1377,7 @@ conn.sendMessage(id, '*BAKAA* perintah ini tidak terrdaftar di *menu* ketikkan !
 if (text.includes("!jadwaltv")){
 const teks = text.replace(/!Wiki /, "")
 axios.get(`https://api.haipbis.xyz/jadwaltvnow=${teks}`).then((res) => {
-conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
     let hasil = `Jam : ${jadwalNow.jam}\n\nJadwalTV : ${jadwalNow.jadwalTV}`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1382,31 +1385,31 @@ conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', Me
 if (text.includes("!cuaca")){
 const teks = text.replace(/!cuaca/, "")
 axios.get(`https://mhankbarbar.herokuapp.com/api/cuaca?q=${teks}`).then((res) => {
-conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
-    let hasil = `➸ Tempat : ${weather.result.tempat}\n\n➸ Angin : ${weather.result.angin}\n➸ Cuaca : ${weather.result.cuaca}`;
+conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
+    let hasil = `âž¸ Tempat : ${weather.result.tempat}\n\nâž¸ Angin : ${weather.result.angin}\nâž¸ Cuaca : ${weather.result.cuaca}`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
 }
 if (text.includes("!daerah")){
 const teks = text.replace(/!cuaca/, "")
 axios.get(`https://mhankbarbar.herokuapp.com/daerah=${teks}`).then((res) => {
-conn.sendMessage(id, `[ ❗ ] terjadi kesalahan pada saat proses di mulai`, MessageType.text)           
-let hasil = `➸ Tempat : ${weather.result.tempat}`;
+conn.sendMessage(id, `[ â— ] terjadi kesalahan pada saat proses di mulai`, MessageType.text)           
+let hasil = `âž¸ Tempat : ${weather.result.tempat}`;
 conn.sendMessage(id, hasil ,MessageType.text);
 })
 }
 if (text.includes("!urlweb")){
 const teks = text.replace(/!cuaca/, "")
 axios.get(`https://mhankbarbar.herokuapp.com/api/url2image?url=${teks}`).then((res) => {
-conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
-let hasil = `➸ Tempat : ${weather.result.tempat}`;
+conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
+let hasil = `âž¸ Tempat : ${weather.result.tempat}`;
 conn.sendMessage(id, hasil ,MessageType.text);
 })
 }
 if (text.includes("!chord")){
 const teks = text.replace(/!chord /, "")
 axios.get(`https://alfians-api.herokuapp.com/api/chord?q=${teks}`).then((res) => {
-conn.sendMessage(id, '[WAIT] Searching...⏳', MessageType.text)
+conn.sendMessage(id, '[WAIT] Searching...â³', MessageType.text)
     let hasil = `*Nih Cord Lagu Onii Chan~${teks} * \n\nCord: _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1414,7 +1417,7 @@ conn.sendMessage(id, '[WAIT] Searching...⏳', MessageType.text)
 if (text.includes("!wikien")){
 const teks = text.replace(/!wikien /, "")                                                      
 axios.get(`https://arugaz.herokuapp.com/api/wikien?q=${teks}`).then((res) => {
-conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+conn.sendMessage(id, '[WAIT] Searching...â—', MessageType.text)
     let hasil = ` *According to Wikipedia:* \n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1422,7 +1425,7 @@ conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
 if (text.includes("!harinasional")){
   const teks = text.replace(/!harinasional /, "")
   axios.get(`https://api.haipbis.xyz/harinasional?tanggal=${teks}`).then ((res) =>{
-  conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+  conn.sendMessage(id, '[WAIT] Searching...â—', MessageType.text)
   let hasil = `menurut tanggal ${teks} adalah\n\n *Tanggal* : _${res.data.tanggal}_ \n *Keterangan* : _${res.data.keterangan}_ `;
   conn.sendMessage(id, hasil, MessageType.text);
 })
@@ -1430,7 +1433,7 @@ if (text.includes("!harinasional")){
 if (text.includes("!puisi")){
 const teks = text.replace(/!puisi1 /, "")
 axios.get(`https://arugaz.herokuapp.com/api/puisi1`).then((res) => {
-conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)                                          
+conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)                                          
 let hasil = ` *Nih Puisinya Onii chan~*\n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1438,7 +1441,7 @@ let hasil = ` *Nih Puisinya Onii chan~*\n\n _${res.data.result}_ `;
 if (text.includes("!puisi2")){                                                   
 const teks = text.replace(/!puisi2 /, "")                                    
 axios.get(`https://arugaz.herokuapp.com/api/puisi3`).then((res) => {
-conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
     let hasil = ` *Nih Puisinya Onii chan~*\n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1446,14 +1449,14 @@ conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', Me
 if (text.includes("!puisi3")){
  var aris = text.replace(/ /, '')
 axios.get(`https://arugaz.herokuapp.com/api/puisi3`).then((res) => {
-    let hasil = ` ➸ ${res.data.result}`;
+    let hasil = ` âž¸ ${res.data.result}`;
     conn.sendMessage(id, hasil ,MessageType.text);
   })
  }
 if (text.includes("!cerpen")){
 const teks = text.replace(/!cerpen /, "")                           
 axios.get(`https://arugaz.herokuapp.com/api/cerpen`).then((res) => {
-conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)           
+conn.sendMessage(id, '[WAIT] Searching...â—', MessageType.text)           
 let hasil = ` *Nih cerpen Onii chan~*\n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);                      
 })        
@@ -1461,7 +1464,7 @@ let hasil = ` *Nih cerpen Onii chan~*\n\n _${res.data.result}_ `;
 if (text.includes("!cersex")){                             
 const teks = text.replace(/!cersex /, "")                                                     
 axios.get(`https://arugaz.herokuapp.com/api/cersex2`).then((res) => {
-conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+conn.sendMessage(id, '[WAIT] Searching...â—', MessageType.text)
     let hasil = ` *Nih cersex Onii chan~*\n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1469,7 +1472,7 @@ conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
 if (text.includes("!scall")){                      
 const teks = text.replace(/!spamcall /, "")
 axios.get(`https://arugaz.herokuapp.com/api/spamcall?no=${teks}`).then((res) => {
-conn.sendMessage(id, '[WAIT] Proses...❗', MessageType.text)                                   
+conn.sendMessage(id, '[WAIT] Proses...â—', MessageType.text)                                   
 let hasil = ` *INFO SPAM CALL* \n\n _${res.data.logs}_`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1484,7 +1487,7 @@ axios.get(`https://arugaz.herokuapp.com/api/howbucins`).then((res) => {
 if (text.includes("!infonime")){
 const teks = text.replace(/!infoanime /, "")
 axios.get(`https://arugaz.herokuapp.com/api/dewabatch?q=${teks}`).then((res) => {              
-conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
     let hasil = ` *INFO ANIME ${teks} :* \n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1492,14 +1495,14 @@ conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', Me
 if (text.includes("!checkip"))
   { const aris = text.replace(/!checkip /, "")
   axios.get(`https://mnazria.herokuapp.com/api/check?ip=${aris}`).then((res) =>{
-  let hasil = `➸ *City* : ${res.data.city}\n*Latitude* :.${res.data.latitude}\n*Longtitude* : ${res.data.longitude}\n*Region* :.${res.data.region_name}\n*Region Code* : ${res.data.region_code}\n*IP* :.${res.data.ip}\n*Type* : ${res.data.type}\n*Name* : ${res.data.name}\n*zip* :.${res.data.zip}\n*Geonime* : ${res.data.location.geoname_id}\n*Capital* :.${res.data.location.capital}\n*Calling* : ${res.data.location.calling_code}\n\n*Country Flag* :.${res.data.location.country_flag}\n\n*CountryFlagEmoji* :.${res.data.location.country_flag_emoji}`.
+  let hasil = `âž¸ *City* : ${res.data.city}\n*Latitude* :.${res.data.latitude}\n*Longtitude* : ${res.data.longitude}\n*Region* :.${res.data.region_name}\n*Region Code* : ${res.data.region_code}\n*IP* :.${res.data.ip}\n*Type* : ${res.data.type}\n*Name* : ${res.data.name}\n*zip* :.${res.data.zip}\n*Geonime* : ${res.data.location.geoname_id}\n*Capital* :.${res.data.location.capital}\n*Calling* : ${res.data.location.calling_code}\n\n*Country Flag* :.${res.data.location.country_flag}\n\n*CountryFlagEmoji* :.${res.data.location.country_flag_emoji}`.
   conn.sendMessage(id, hasil, MessageType.text);
  })
  }
 if (text.includes("!ssms")){
 const teks = text.replace(/!spamsms /, "")
 axios.get(`https://arugaz.herokuapp.com/api/spamsms?no=${teks}&jum=20`).then((res) => {
-conn.sendMessage(id, '[WAIT] Proses...❗', MessageType.text)
+conn.sendMessage(id, '[WAIT] Proses...â—', MessageType.text)
     let hasil = ` *INFO SPAM SMS 20 PESAN* \n\n _${res.data.logs}_`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1507,7 +1510,7 @@ conn.sendMessage(id, '[WAIT] Proses...❗', MessageType.text)
 if (text.includes("!indohot")){
 const teks = text.replace(/!indohot /, "")
 axios.get(`https://arugaz.herokuapp.com/api/indohot`).then((res) => {
-conn.sendMessage(id, '[WAIT] Proses...❗', MessageType.text)
+conn.sendMessage(id, '[WAIT] Proses...â—', MessageType.text)
     let hasil = ` *Inget dosa* \n\n *Judul* _${res.data.result.judul}_ \n\n *Status* _${res.data.result.genre}_ \n\n *Durasi* _${res.data.result.durasi}_ \n\n *Link Bosq* _${res.data.result.url}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1515,7 +1518,7 @@ conn.sendMessage(id, '[WAIT] Proses...❗', MessageType.text)
 if (text.includes("!filmanime")){
 const teks = text.replace(/!filmanime /, "")
 axios.get(`https://arugaz.herokuapp.com/api/sdmovie?film=${teks}`).then((res) => {
-conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
     let hasil = ` *Film Anime ${teks} :* \n\n *Judul* _${res.data.result.title}_ \n\n *Rating* _${res.data.result.rating}_ \n\n *Info* _${res.data.result.sinopsis}_ \n\n *Link Video* _${res.data.result.video}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1523,7 +1526,7 @@ conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', Me
 if (text.includes("!bitly")){
 const teks = text.replace(/!bitly /, "")
 axios.get(`https://api.haipbis.xyz/bitly?url=${teks}`).then((res) => {        
-conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
+conn.sendMessage(id, '[WAIT] Searching...â—', MessageType.text)
     let hasil = `Nih Onii chan \n\n${res.data.result}`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -1754,10 +1757,10 @@ else if (text == '!foto'){
 conn.sendMessage(id, 'kirim !foto cewek/cowok\n\nContoh: !foto cewek' ,MessageType.text);
 }
 else if (text == '!stickergif'){
-conn.sendMessage(id, '[ ❗ ] kirim video max 10s tidak boleh lebih!!' ,MessageType.text)
+conn.sendMessage(id, '[ â— ] kirim video max 10s tidak boleh lebih!!' ,MessageType.text)
 }
 else if (text == '!hentai'){
-conn.sendMessage(id, 'Gomennasai *Onii-chan* Lagi error 😞' ,MessageType.text)
+conn.sendMessage(id, 'Gomennasai *Onii-chan* Lagi error ðŸ˜ž' ,MessageType.text)
 }
 else if (text == '!brainly'){
 conn.sendMessage(id, '*BAKAA!!* Masukan kata kunci !brainly Contoh: !brainly apa itu matahari' ,MessageType.text)
@@ -1903,7 +1906,7 @@ if (text.includes('!waifu')){                                                   
       imageToBase64(res.data.image)
         .then(
           (ress) => {
-            conn.sendMessage(id, '[❗] WAIT SEDANG DIPROSES', MessageType.text)
+            conn.sendMessage(id, '[â—] WAIT SEDANG DIPROSES', MessageType.text)
             var buf = Buffer.from(ress, 'base64')
             conn.sendMessage(id, buf, MessageType.image)
         })
@@ -1933,7 +1936,7 @@ if (text.includes('!waifu')){                                                   
       if (is == '!daerah')
       {
           fetch('https://mhankbarbar.herokuapp.com/daerah')
-          conn.sendMessage(id, `[ ❗ ] terjadi kesalahan pada saat proses di mulai`, MessageType.text)
+          conn.sendMessage(id, `[ â— ] terjadi kesalahan pada saat proses di mulai`, MessageType.text)
             .then(res => res.text())
             .then(body =>
             {
@@ -1955,12 +1958,12 @@ const get = require('got')
     var meninggal = (body[0]['meninggal']);
     var dirawat = (body[0]['dirawat']);
     console.log(body[0]['name'])
-    conn.sendMessage(id,`❣covid -indonesia❣\n\nPositif ==> ${positif} \nSembuh ==> ${sembuh} \nMeninggal ==> ${meninggal}\nDirawat ==> ${dirawat}`, MessageType.text);
+    conn.sendMessage(id,`â£covid -indonesiaâ£\n\nPositif ==> ${positif} \nSembuh ==> ${sembuh} \nMeninggal ==> ${meninggal}\nDirawat ==> ${dirawat}`, MessageType.text);
 }
    if (text.includes("!quotes"))
    {
       var url = 'https://jagokata.com/kata-bijak/acak.html'
-      conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+      conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
       axios.get(url)
          .then((result) =>
          {
@@ -1983,7 +1986,7 @@ _${kata}_
    if (text.includes("!quotesnime"))
    {
       var url = 'https://mhankbarbar.herokuapp.com/api/quotesnime/random'
-      conn.sendMessage(id, '[ ❗ ] terjadi kesalahan pada saat proses di mulai', MessageType.text)
+      conn.sendMessage(id, '[ â— ] terjadi kesalahan pada saat proses di mulai', MessageType.text)
       axios.get(url)
          .then((result) =>
          {
@@ -2021,8 +2024,9 @@ _${kata}_
       console.log(""+ h);
       conn.sendMessage(id,
             `
-      ❣Arti dari namamu adalah❣️
-
+      â£Arti dari namamu adalahâ£ï¸
+
+
          Nama _*${nama}*_ ${h}
 
 
@@ -2049,14 +2053,16 @@ _${kata}_
         var d = h.replace("&amp;", '&')
       console.log(""+ d);
       conn.sendMessage(id, `
-
 
- *❣Kecocokan berdasarkan nama❣*
+
+
+ *â£Kecocokan berdasarkan namaâ£*
 
 
  ${d}
 
-
+
+
     `, MessageType.text);
   });
   }
@@ -2073,7 +2079,7 @@ _${kata}_
         imageToBase64(cewek) // Path to the image
         .then(
             (response) => {
-            conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+            conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
 	var buf = Buffer.from(response, 'base64'); // Ta-da	
               conn.sendMessage(
             id,
@@ -2103,7 +2109,7 @@ _${kata}_
         imageToBase64(cowok) 
         .then(
             (response) => {
-  conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+  conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
   var buf = Buffer.from(response, 'base64'); 
               conn.sendMessage(
             id,
@@ -2133,7 +2139,7 @@ if (text.includes("!animeimg"))
         imageToBase64(nimek) 
         .then(
             (response) => {
-    conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+    conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
 	var buf = Buffer.from(response, 'base64'); 
               conn.sendMessage(
             id,
@@ -2169,8 +2175,8 @@ if (messageType === MessageType.text)
 if (text.includes("!lirik")){
     const teks = text.split("!lirik")[1]
     axios.get(`http://scrap.terhambar.com/lirik?word=${teks}`).then ((res) => {
-         conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
-        let hasil = `❣️ *lirik lagu* ❣️${teks} \n\n\n ${res.data.result.lirik}`
+         conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.text)
+        let hasil = `â£ï¸ *lirik lagu* â£ï¸${teks} \n\n\n ${res.data.result.lirik}`
     conn.sendMessage(id, hasil, MessageType.text)
     })
 }
@@ -2184,8 +2190,8 @@ if (text.includes("!alay")){
 if (text.includes("!chord")){
     const teks = text.split("!chord")[1]
     axios.get(`https://script.google.com/macros/exec?service=AKfycbw7gKzP-WYV2F5mc9RaR7yE3Ve1yN91Tjs91hp_jHSE02dSv9w&nama=${teks}`).then ((res) => {
-         conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.tex)
-        let hasil = `❣ ️ *chord music* ❣ ️${teks} \n\n\n ${res.data.result.lirik}`
+         conn.sendMessage(id, '[ WAIT ] Sedang di prosesâ³ silahkan tunggu sebentar', MessageType.tex)
+        let hasil = `â£ ï¸ *chord music* â£ ï¸${teks} \n\n\n ${res.data.result.lirik}`
     conn.sendMessage(id, hasil, MessageType.text)
     })
 }
