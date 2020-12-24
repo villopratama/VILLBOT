@@ -1,4 +1,4 @@
-# 🤖Naga-Bot🤖
+# ⚓VILLBOT⚓
 BOT WHATSAPP TERMUX ONLY BY Sekaii Mod
 
 ### Alat dan Bahan
@@ -22,14 +22,14 @@ Siapin alat dan bahannya.
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> cd Arya-Bot
+> cd VILLBOT
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr ya cuy...done cuk
 ```
 
 ## Features
 
-| Nolep Bot     |                   Feature        |
+| vill Bot     |                   Feature        |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                           |
@@ -72,5 +72,5 @@ Jika ada kendala hubungi kami..
 BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (NFQ SQUAD)
 
 ## Sosial Media Admin
-* [`Youtube Admin`](https://youtube.com/channel/UC7di1zjUfd3h4A58a2uscIw) 
-* [`WhatsApp Admin `](https://wa.me/6283807588767)
+* [`instagram Admin` villosmile_*
+* [`WhatsApp Admin `](https://wa.me/6283843251769)
